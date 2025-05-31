@@ -1,0 +1,1 @@
+[Stanford Online: Databases (Series) - Part 1: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) 

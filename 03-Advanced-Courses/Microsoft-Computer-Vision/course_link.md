@@ -1,0 +1,1 @@
+[MIT OCW 6.801: Machine Vision (Fall 2020) - Alternative to retired Microsoft course](https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/) 

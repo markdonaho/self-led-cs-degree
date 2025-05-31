@@ -1,0 +1,1 @@
+[Harvard CS50 via edX: Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)

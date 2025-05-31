@@ -13,26 +13,32 @@ The curriculum is structured as follows:
 *   Portfolio: Use GitHub to store code and project documentation.
 
 ### 1. Introductory Courses
-*   [MIT OCW 6.0001: Introduction to Computer Science and Programming Using Python](01-Introductory-Courses/MIT-6.0001-Intro-to-Python)
-*   [Harvard CS50: Introduction to Computer Science](01-Introductory-Courses/Harvard-CS50-Intro-to-CS)
+*   MIT OCW 6.0001: Introduction to Computer Science and Programming Using Python
+*   Harvard CS50: Introduction to Computer Science
 
 ### 2. Core Courses
-*   [MIT OCW 6.006: Introduction to Algorithms](02-Core-Courses/MIT-6.006-Intro-to-Algorithms)
-    *   Supplementary: [Georgia Tech: Data Structures & Algorithms I](02-Core-Courses/GeorgiaTech-Data-Structures-Algorithms-1)
-*   [MIT OCW 6.042J: Mathematics for Computer Science](02-Core-Courses/MIT-6.042J-Math-for-CS)
-*   [MIT OCW 6.004: Computation Structures](02-Core-Courses/MIT-6.004-Computation-Structures)
-*   [University of Wisconsin: Operating Systems: Three Easy Pieces](02-Core-Courses/Wisconsin-OSTEP-Operating-Systems)
-*   [Stanford Online: Introduction to Databases](02-Core-Courses/Stanford-Intro-to-Databases)
-*   [UBC via edX: Software Engineering: Introduction](02-Core-Courses/UBC-Software-Engineering-Intro)
+*   MIT OCW 6.006: Introduction to Algorithms
+    *   Supplementary: Georgia Tech: Data Structures & Algorithms I
+*   MIT OCW 6.042J: Mathematics for Computer Science
+*   MIT OCW 6.004: Computation Structures
+*   University of Wisconsin: Operating Systems: Three Easy Pieces
+*   Stanford Online: Introduction to Databases
+*   UBC via edX: Software Engineering: Introduction
 
 ### 3. Advanced Courses (Choose 2-3)
-*   [Harvard CS50 via edX: Introduction to Artificial Intelligence with Python](03-Advanced-Courses/Harvard-CS50-Intro-to-AI-with-Python)
-*   [RIT via edX: Cybersecurity Fundamentals](03-Advanced-Courses/RIT-Cybersecurity-Fundamentals)
-*   [Microsoft via edX: Computer Vision and Image Analysis](03-Advanced-Courses/Microsoft-Computer-Vision)
+*   Harvard CS50 via edX: Introduction to Artificial Intelligence with Python
+*   RIT via edX: Cybersecurity Fundamentals
+*   Microsoft via edX: Computer Vision and Image Analysis (Alternative: MIT OCW 6.801: Machine Vision)
 
 ### 4. Capstone Project
-*   [Personal Finance Tracker Web App](04-Capstone-Project/Personal-Finance-Tracker-WebApp)
-    *   Technologies: Python (Flask), JavaScript, HTML/CSS, SQLite, scikit-learn
+*   Agentic Real Estate Disruption Platform
+    *   Goal: Create a suite of AI agents to automate and replace traditional real estate agent roles in the home buying/selling process.
+    *   Key Features:
+        *   Buyer agents for property search, viewing scheduling, offer negotiation.
+        *   Seller agents for market analysis, listing creation, marketing, offer management.
+        *   Transaction coordination agents.
+        *   Development of an alternative to MLS for property listings, potentially using web scraping, public records, and direct submissions. Allowing sellers to directly load their homes is a big deal I suspect!
+    *   Technologies: Python, AI/ML frameworks (e.g., LangChain, TensorFlow/PyTorch), web scraping libraries, database technologies (e.g., PostgreSQL or NoSQL alternatives), web frameworks (e.g., Flask/Django or FastAPI).
 
 ## Learning Strategy
 *   **Order**: Introductory -> Core -> Advanced -> Capstone.
@@ -48,13 +54,13 @@ Self-Led Computer Science Education (Equivalent to Bachelor's Degree)
 Open Source Society University (OSSU) and MIT OpenCourseWare
 - Completed curriculum from MIT, Harvard, Stanford, and others
 - Covered programming, data structures, algorithms, discrete math, computer architecture, operating systems, databases, software engineering, AI, cybersecurity
-- Built a personal finance tracker web app as a capstone project
+- Capstone Project: Developing an agentic application to disrupt the real estate industry by automating home buying/selling processes.
 
 ### Projects Section
-**Personal Finance Tracker Web App** | GitHub: \[your-github-link]
-- Developed a full-stack web app using Flask, JavaScript, HTML/CSS, and SQLite
-- Integrated a machine learning model (scikit-learn) for savings predictions
-- Implemented secure user authentication and data visualization
+**Agentic Real Estate Disruption Platform** | GitHub: \[your-github-link]
+- Designing and developing a multi-agent system to automate real estate transactions.
+- Aiming to create an open alternative to traditional MLS systems.
+- Technologies: Python, AI/ML, Web Scraping, Databases, Web Frameworks.
 
 ### Skills Section
 *   **Programming**: Python, C, JavaScript, SQL, HTML/CSS
